@@ -1,0 +1,786 @@
+{"all":[
+    {
+        "Name": "Christian Medical College, Vellore",
+        "Address":" Department of Clinical Virology, 9th Floor, ASHA Building, IDA Scudder Road, Christian Medical College, Vellore, Tamil Nadu, India Pin 632004",
+        "Latt": "12.924843",
+        "long": "79.134727"
+    },
+    {
+        "Name": "Ram Manohar Lohia Hospital, New Delhi",
+        "Address": "Type III, President's Estate, New Delhi, Delhi 110001",
+        "Latt": "28.625874",
+        "long": "77.202748"
+    },{
+        "Name": "Tirunelveli Medical College, Tirunelveli",
+        "Address":" Tirunelveli Medical College, 3, High Ground Rd, Palayamkottai, Tirunelveli, Tamil Nadu 627011 ",
+        "Latt": "8.712006",
+        "long": "77.750774"
+    },{
+        "Name": "A.G DIAGNOSTICS PVT LTD, Pune",
+        "Address":" A.G DIAGNOSTICS PVT LTD, CTS No 809, F.P. 147, Nayantara Building, Bhandarkar Road, Pune, Maharashtra 411004 ",
+        "Latt": "18.519039",
+        "long": "73.830927"
+    },{
+        "Name": "AIIMS, Bhopal",
+        "Address":" All India Institute of Medical Sciences (AIIMS) AIIMS Campus Rd, Saket Nagar, Habib Ganj, Bhopal, Madhya Pradesh 462026 ",
+        "Latt": "23.206995",
+        "long": "77.460141"
+    },{
+        "Name": "All India Institute of Medical Science (AIIMS) Raipur",
+        "Address": "Great Eastern Rd, AIIMS Campus, Tatibandh, Raipur, Chhattisgarh 492099 ",
+        "Latt": "21.25703",
+        "long": "81.579168"
+    },{
+        "Name": "All India Institute of Medical Sciences (AIIMS), Jodhpur",
+        "Address": "Basni Industrial Area, MIA 2nd Phase, Basni, Jodhpur, Rajasthan 342005 ",
+        "Latt": "26.240388",
+        "long": "73.005606"
+    },{
+        "Name": "All India Institute of Medical Sciences, Bhubaneswar",
+        "Address": "Near Aiims hospital, Sijua, Patrapada, Bhubaneswar, Odisha 751019 ",
+        "Latt": "20.231716",
+        "long": "85.776681"
+    },{
+        "Name": "All India Institute of Medical Sciences, New Delhi",
+        "Address": "Sri Aurobindo Marg, Ansari Nagar, Ansari Nagar East, New Delhi, Delhi 110029 ",
+        "Latt": "28.567403",
+        "long": "77.210034"
+    },{
+        "Name": "All India Institute of Medical Sciences, Rishikesh",
+        "Address": "All India Institute of Medical Sciences (AIIMS), Virbhadra Road Shivaji Nagar, near Barrage, Sturida Colony, Rishikesh, Uttarakhand 249203 ",
+        "Latt": "30.079196",
+        "long": "78.286028"
+    },{
+        "Name": "AMERICAN Institute of Pathology and Laboratory Sciences Private Limited, Hyderabad",
+        "Address": " ",
+        "Latt": "17.426043",
+        "long": "78.450413"
+    },{
+        "Name": "Apollo Gleneagles Hospitals, Kolkata",
+        "Address":  "58, Canal Circular Road, Kolkata, West Bengal 700054 ",
+        "Latt": "22.575388",
+        "long": "88.40166"
+    },{
+        "Name": "Apollo Health and Lifestyle Limited-Secunderabad, Diagnostics Laboratory, Hyderabad",
+        "Address":" NOS, 140/A, 140/B, 140/C, 141/A, 141/B, 141/C, Thokatta Village, Bowenpally, Secunderabad, Telangana, Hyderabad-500011 ",
+        "Latt": "17.435557",
+        "long": "78.44546"
+    },{
+        "Name": "Apollo Hospitals Enterprise Limited, Chennai",
+        "Address":"Department of Laboratory Services, Apollo Hospitals Enterprise Limited, 21 Greams Lane, Off Greams Road, Chennai Tamil Nadu Pin 600006 ",
+        "Latt": "13.063653",
+        "long": "80.251538"
+    },{
+        "Name": "Armed Forces Medical College, Pune",
+        "Address":" Southern Command, Solapur Road, Wanowrie, near Race Course, 411040 Pune, Maharashtra, India ",
+        "Latt": "18.504363",
+        "long": "73.890085"
+    },{
+        "Name": "Army Hospital Research & Referral",
+        "Address":" Army Hospital Research & Referral, Military Hospital Road Near, Subroto Park, Dhaula Kuan, New Delhi, Delhi 110010 ",
+        "Latt": "28.586479",
+        "long": "77.157342"
+    },{
+        "Name": "Bangalore Medical College & Research Institute, Bangaluru",
+        "Address":" Bangalore Medical College & Research Institute, Krishna Rajendra Rd, Bengaluru, Karnataka 560002 ",
+        "Latt": "12.959668",
+        "long": "77.574711"
+    },{
+        "Name": "BJ Medical College, Ahmedabad",
+        "Address":"B j medical college, Asarwa,, Civil Hospital Campus, Ahmedabad, Gujarat 380016 ",
+        "Latt": "23.052688",
+        "long": "72.602857"
+    },{
+        "Name": "BJ Medical College, Pune",
+        "Address":" Jai Prakash Narayan Road, Railway Station Rd, near Pune, Maharashtra 411001 ",
+        "Latt": "18.526437",
+        "long": "73.87112"
+    },{
+        "Name": "BPS Government Medical College for Women, Sonipat",
+        "Address":" Bhagat Phool Singh Government Medical College, Ganaur - Gohana Rd, Khanpur Kalan, Haryana 131305 ",
+        "Latt": "29.152254",
+        "long": "76.80842"
+    },{
+        "Name": "Cancyte Technologies Private Limited",
+        "Address":" Cancyte Technologies Private Limited, Bengaluru, Karnataka 560018 ",
+        "Latt": "12.95786",
+        "long": "77.566802"
+    },{
+        "Name": "City x-Ray & Scan Clinic Pvt. Ltd., New delhi",
+        "Address":" Molecular Laboratory, Third Floor,City Imaging Building, 4B/18, Tilak Nagar, 110018 New Delhi, Delhi, India ",
+        "Latt": "28.639137",
+        "long": "77.101347"
+    },{
+        "Name": "Coimbatore Medical College, Coimbatore",
+        "Address":" 1 A, SF No 498, Avinashi Rd, 641018 Peelamedu, Tamil Nadu, India ",
+        "Latt": "10.996734",
+        "long": "76.970335"
+    },{
+        "Name": "Command Hospital (Air Force) Bengaluru",
+        "Address":" Cambridge Rd, Cambridge Layout, 560007 Bengaluru, Karnataka, India ",
+        "Latt": "12.96401",
+        "long": "77.630788"
+    },
+    {
+        "Name": "Command Hospital, Lucknow",
+        "Address":" Lucknow, 226002 Lucknow, Uttar Pradesh, India ",
+        "Latt": "26.817709",
+        "long": "80.940818"
+    },{
+        "Name": "Command Hospital, Udhampur",
+        "Address":" Raghunathpura, 182101 Udhampur, Jammu and Kashmir, India ",
+        "Latt": "32.93103",
+        "long": "75.135391"
+    },{
+        "Name": "CORE Diagnostics Pvt Ltd, Gurugram",
+        "Address":" 406, Udyog Vihar III, Sector 20, Gurugram, Haryana 122016 ",
+        "Latt": "28.509553",
+        "long": "77.091655"
+    },{
+        "Name": "DDRC SRL Diagnostics Pvt Ltd, Ernakulam",
+        "Address":" DDRC SRL TOWER,G-131, Panampilly Nagar, Ernakulam, Kerala 682036 ",
+        "Latt": "9.963836",
+        "long": "76.295305"
+    },{
+        "Name": "Department of Laboratory Sciences, Tata Medical Center, Kolkata",
+        "Address":" 14, MAR(E-W), DH Block(Newtown), Action Area I, Newtown, Kolkata, West Bengal 700160 ",
+        "Latt": "22.577335",
+        "long": "88.479653"
+    },{
+        "Name": "Department of laboratory services apollo hospitals, Bhubaneswar",
+        "Address":" plot no 251, Sainik School Rd, Unit 15, Gajapati Nagar, Bhubaneswar, Odisha 751005 ",
+        "Latt": "20.305961",
+        "long": "85.831735"
+    },{
+        "Name": "Dr Lal PathLabs, National Reference laboratory, New Delhi",
+        "Address":" National Reference laboratory, B7 Rd, Block E, Sector 18, Rohini, New Delhi, Delhi 110085 ",
+        "Latt": "28.739098",
+        "long": "77.136442"
+    },{
+        "Name": "Dr. Dang’s Lab, New Delhi",
+        "Address":" C2/1 SDA AURBINDO MARG, 110016 New Delhi, Delhi, India ",
+        "Latt": "28.550311",
+        "long": "77.20344"
+    },{
+        "Name": "Dr. Rajendra Prasad Government Medical College, Tanda",
+        "Address":" Tanda Hospital Rd, Kangra, Himachal Pradesh 176001 ",
+        "Latt": "32.099404",
+        "long": "76.298656"
+    },{
+        "Name": "DR. REMEDIES LABS PRIVATE LIMITED, Hyderabad",
+        "Address":" Titus Plaza, 1st Floor, Sharma Commercial Complex, Hyderabad, Telangana 500082 ",
+        "Latt": "17.424806",
+        "long": "78.453013"
+    },{
+        "Name": "Dr. Sampurnanand Medical College, Jodhpur",
+        "Address":" Dr. S.N. Medical College, Jodhpur ",
+        "Latt": "26.269585",
+        "long": "73.00743"
+    },{
+        "Name": "Gandhi Medical College, Bhopal",
+        "Address":" Sultania Rd, near Hamidia Hospital, Royal Market, 462001 Bhopal, Madhya Pradesh, India ",
+        "Latt": "23.260172",
+        "long": "77.390959"
+    },{
+        "Name": "Gandhi Medical College, Secunderabad",
+        "Address":" Musheerabad, Padmarao Nagar, 500003 Secunderabad, Telangana, India ",
+        "Latt": "17.424854",
+        "long": "78.504349"
+    },{
+        "Name": "Gauhati Medical College, Guwahati",
+        "Address":" Narakasur Hilltop, Bhangagarh, 781032 Guwahati, Assam , India ",
+        "Latt": "26.154342",
+        "long": "91.770289"
+    },{
+        "Name": "K.A.P.Viswanatham Government Medical College",
+        "Address":" Periyamilaguparai, Colletor's office Road, Trichy, Tamil Nadu 620001 ",
+        "Latt": "10.797826",
+        "long": "78.679324"
+    },{
+        "Name": "Government Medical College & Hospital, Chandigarh",
+        "Address":" Chandi Path, Sector 32B, 32B, Sector 32, Chandigarh, 160047 ",
+        "Latt": "30.709902",
+        "long": "76.781356"
+    },{
+        "Name": "Government Medical College, Agartala",
+        "Address":" 79 Tilla, Agartala, Tripura 799006 ",
+        "Latt": "23.864478",
+        "long": "91.293027"
+    },{
+        "Name": "Government Medical College, Amritsar",
+        "Address":" Medical Enclave, Amritsar, Punjab 143001 ",
+        "Latt": "31.654127",
+        "long": "74.885237"
+    },{
+        "Name": "Government Medical College, Anantapur",
+        "Address":"Rahamat Nagar, Anantapur, Andhra Pradesh 515001 ",
+        "Latt": "14.671439",
+        "long": "77.592938"
+    },{
+        "Name": "Government Medical College, Bhavnagar Gujarat",
+        "Address":" Near State Road Transport Corporation Bus Stand, Bhavnagar, Gujarat 364001 ",
+        "Latt": "21.769037",
+        "long": "72.137027"
+    },{
+        "Name": "Government Medical College, Haldwani",
+        "Address":" Rampur Rd, Rampur, Haldwani, Uttarakhand 263129 ",
+        "Latt": "29.20666",
+        "long": "79.521413"
+    },{
+        "Name": "Government Medical College, Jammu",
+        "Address":" maheshpura, chowk, Bakshi Nagar, Jammu Cantonment, Jammu and Kashmir 180001 ",
+        "Latt": "32.736307",
+        "long": "74.853991"
+    },{
+        "Name": "Government Medical College, Kozhikode",
+        "Address":" 17 Medical College Road Medical College Junction, Near Police Station, Kozhikode, Kerala 673008 ",
+        "Latt": "11.272412",
+        "long": "75.837238"
+    },{
+        "Name": "Government Medical College, Patiala",
+        "Address":"Sangrur Rd, New Lal Bagh Colony, Patiala, Punjab 147001 ",
+        "Latt": "30.328283",
+        "long": "76.385083"
+    },{
+        "Name": "Government Medical College, Rajkot, Gujarat",
+        "Address":"Andit Dindayal Upadhyay Medical College, Sadar Civil Hospital Campus, Rajkot, Gujarat 360001 ",
+        "Latt": "22.30518",
+        "long": "70.798452"
+    },{
+        "Name": "Government Medical College, Srinagar",
+        "Address":" Jammu and Kashmir, Bemina, Srinagar, 190010 ",
+        "Latt": "34.086214",
+        "long": "74.798855"
+    },{
+        "Name": "Government Medical College, Surat",
+        "Address":" Opp Income Tax Department Office, Majura Gate, Surat, Gujarat 395001 ",
+        "Latt": "21.178267",
+        "long": "72.820177"
+    },{
+        "Name": "Government Medical College, Thiruvarur",
+        "Address":" Government Medical College, Collector office Master Plan Complex, Collector Office Road, Thiruvarur, Tamil Nadu 610004 ",
+        "Latt": "10.775754",
+        "long": "79.605267"
+    },{
+        "Name": "Government Medical College, Thrissur",
+        "Address":" M. G. Kavu, Thrissur, Kerala 680596 ",
+        "Latt": "10.614733",
+        "long": "76.195949"
+    },{
+        "Name": "Government Medical College, Trivandrum",
+        "Address":" Ulloor - Akkulam Rd, near SAT hospital Medical College Junction, Chalakkuzhi, Thiruvananthapuram, Kerala 695011 ",
+        "Latt": "8.523687",
+        "long": "76.928285"
+    },{
+        "Name": "Government Medical College, Vadodara",
+        "Address":" Vinoba Bhave Rd, Anandpura, Vadodara, Gujarat 390001",
+        "Latt": "22.305272",
+        "long": "73.192002"
+    },
+    {
+        "Name": "Government Theni Medical College, Theni",
+        "Address":"Govt. Theni Medical College, k. villakku, Tamil Nadu 625531",
+        "Latt": "10.006467",
+        "long": "77.553705"
+    },
+    {
+        "Name": "Government Villupuram Medical College, Villupuram",
+        "Address":" Government Villupuram Medical College, Mundiyampakkam, Villupuram, Tamil Nadu 605601",
+        "Latt": "11.994421",
+        "long": "79.5152"
+    },
+    {
+        "Name": "Govt. Medical College, Kota",
+        "Address":" Govt. Medical College, Rangbari Rd, Sector - A, Rangbari, Kota, Rajasthan 324010",
+        "Latt": "25.123932",
+        "long": "75.829644"
+    },{
+        "Name": "Grant Medical College & Sir JJ Hospital, Mumbai",
+        "Address":" J J Marg, Nagpada-Mumbai Central, J J Marg, Nagpada-Mumbai Central, Noor Baug, Mazgaon, Mumbai, Maharashtra 400008",
+        "Latt": "18.963261",
+        "long": "72.833608"
+    },{
+        "Name": "Gulbarga Institute Of Medical Sciences, Gulbarga",
+        "Address":"Sedam Rd,Veeresh Nagar Cross, behind MRMC, Gulbarga, Karnataka 585101",
+        "Latt": "17.327387",
+        "long": "76.844052"
+    },{
+        "Name": "Hassan Institute of Medical Sciences, Hassan",
+        "Address":" Shri panchamukhi medicals and clinic, opp. govt high school, Hassan, Karnataka 573201",
+        "Latt": "13.005136",
+        "long": "76.102719"
+    },{
+        "Name": "ICMR- Regional Medical Research Centre, Gorakhpur",
+        "Address":" Baba Raghav Das (BRD) Medical College Campus, Gorakhpur, Uttar Pradesh PIN-273013",
+        "Latt": "26.814368",
+        "long": "83.399642"
+    },{
+        "Name": "iGenetic Diagnostics Pvt. Ltd., Mumbai",
+        "Address":" 1st Floor, krislon House, Off Marol Military Road, Andheri East, Mumbai Maharashtra 400072",
+        "Latt": "19.110504",
+        "long": "72.88711"
+    },{
+        "Name": "Indira Gandhi Government Medical College & Hospital",
+        "Address":" Mayo Hospital, Central Ave, Mominpura, Nagpur 440018",
+        "Latt": "21.153648",
+        "long": "79.093898"
+    },{
+        "Name": "Indira Gandhi Institute of Medical Sciences, Patna",
+        "Address":" Allahabad bank, Bailey Rd, Sheikhpura, Patna, Bihar 800014",
+        "Latt": "25.610819",
+        "long": "85.088922"
+    },{
+        "Name": "Indira Gandhi Medical College, Shimla",
+        "Address":" Ridge Sanjauli Rd, Lakkar Bazar, Shimla, Himachal Pradesh 171001",
+        "Latt": "31.106665",
+        "long": "77.182305"
+    },{
+        "Name": "InfeXn Laboratories Private Ltd, Thane",
+        "Address":" InfeXn Laboratories Private Ltd, A/131, Therelek Compound, Road Number 23, Wagle Industrial Estate, Thane West, Thane, Maharashtra 400604",
+        "Latt": "19.19533",
+        "long": "72.948571"
+    },{
+        "Name": "Institute of Liver and Biliary Sciences, New Delhi",
+        "Address":"Institute of Liver and Biliary Sciences, D1 ILBS Road, Vasant Kunj, New Delhi, Delhi 110070",
+        "Latt": "28.506819",
+        "long": "77.166129 "
+    },{
+        "Name": "Institute of Medical Sciences BHU",
+        "Address":" Aurobindo Colony, Banaras Hindu University Campus, Varanasi, Uttar Pradesh 221005",
+        "Latt": "25.274963",
+        "long": "82.999541"
+    },{
+        "Name": "Institute of Post Graduate Medical Education & Research (IPGMER), Kolkata",
+        "Address":" 244, Acharya Jagadish Chandra Bose Rd, Bhowanipore, Kolkata, West Bengal 700020",
+        "Latt": "22.539757",
+        "long": "88.341802"
+    },{
+        "Name": "Institute Of Preventive Medicine, Hyderabad",
+        "Address":" Narayanaguda, Hyderabad, Telangana 500029",
+        "Latt": "17.394321",
+        "long": "78.490257"
+    },{
+        "Name": "Interuniversity, kottayam",
+        "Address":" Thalappady, Kerala 686019",
+        "Latt": "9.595274",
+        "long": "76.52483"
+    },{
+        "Name": "Jawaharlal Institute of Postgraduate Medical Education & Research, Puducherry",
+        "Address":" Jipmer Campus Rd, Gorimedu, Dhanvantari Nagar, Puducherry, 605006",
+        "Latt": "11.95047",
+        "long": "79.79961"
+    },{
+        "Name": "Jawaharlal Nehru Institute of Medical Sciences, Imphal-East, Manipur",
+        "Address":" Porompat, Imphal, Manipur 795004",
+        "Latt": "24.810289",
+        "long": "93.961156"
+    },{
+        "Name": "Jawaharlal Nehru Medical College, Aligarh",
+        "Address":" Medical Rd, AMU Campus, Aligarh, Uttar Pradesh 202002",
+        "Latt": "27.919049",
+        "long": "78.085841"
+    },{
+        "Name": "Jhalawar Medical College, Jhalawar, Rajasthan",
+        "Address":" Jhalawar Medical College,",
+        "Latt": "24.585697",
+        "long": "76.16107"
+    },{
+        "Name": "JLN Medical College, Ajmer",
+        "Address":" JLN Medical College, Ajmer, Kala Bagh, Ajmer, Rajasthan 305001",
+        "Latt": "26.46749",
+        "long": "74.636308"
+    },{
+        "Name": "Jorhat Medical College, Jorhat",
+        "Address":" Jorhat Medical College, Jorhat Kushal Konwar Path, Barbheta, Jorhat, Assam 785001",
+        "Latt": "26.742737",
+        "long": "94.195044"
+    },{
+        "Name": "Kasturba Hospital for Infectious Diseases, Mumbai",
+        "Address":" Kasturba Hospital for Infectious Diseases, Mumbai, Sane Guruji Marg, Arya Nagar, Chinchpokli, Mumbai, Maharashtra 400034",
+        "Latt": "18.98429",
+        "long": "72.82987"
+    },{
+        "Name": "King George's Medical University, Lucknow",
+        "Address":" Shah Mina Rd, Chowk, Lucknow, Uttar Pradesh 226003",
+        "Latt": "26.867918",
+        "long": "80.916666"
+    },{
+        "Name": "King Institute of Preventive Medicine and Research, Guindy, Chennai, Tamil Nadu",
+        "Address":" King Institute of Preventive Medicine and Research, Guindy, Chennai, Tamil Nadu 600032",
+        "Latt": "13.012577",
+        "long": "80.217621"
+    },{
+        "Name": "Kokilaben Dhirubhai Ambani Hospital Laboratory, Mumbai",
+        "Address":"Kokilaben Dhirubhai Ambani Hospital Laboratory, Four Bungalows, Andheri (West), Mumbai, Maharashtra, India",
+        "Latt": "19.131938",
+        "long": "72.825215"
+    },{
+        "Name": "Kumar Mangalam Government Medical College, Salem",
+        "Address":" Government Mohan Kumaramangalam Medical College, Steel Plant Road Sarkar Kollappatty, Salem, Tamil Nadu 636030",
+        "Latt": "11.671786",
+        "long": "78.067519"
+    },{
+        "Name": "Laboratory Services Apollo Hospitals, Hyderabad",
+        "Address":" Laboratory Services Apollo Hospitals Hyderabad, 6th Floor Health street Building, Jubilee Hills, Hyderabad 500096",
+        "Latt": "17.414063",
+        "long": "78.411971"
+    },{
+        "Name": "Laboratory Services Indraprastha Apollo Hospitals, Sarita Vihar, New Delhi",
+        "Address":" Sarita Vihar, 110076 New Delhi, Delhi, India",
+        "Latt": "28.540879",
+        "long": "77.283468"
+    },{
+        "Name": "Lady Hardinge Medical College, New Delhi",
+        "Address":" Connaught Place, 110001 New Delhi, Delhi , India",
+        "Latt": "28.634481",
+        "long": "77.2126"
+    },{
+        "Name": "Lala Lajpat Rai Memorial Medical College, Meerut",
+        "Address":"Garh Road, Jai Bhim Nagar, Meerut, Uttar Pradesh 250002",
+        "Latt": "28.960325",
+        "long": "77.750213"
+    },{
+        "Name": "Late Baliram Kashyap M Govt. Medical College, Jagdalpur",
+        "Address":"Dimrapal, Jagdalpur, Chhattisgarh 494001",
+        "Latt": "19.050961",
+        "long": "81.948235"
+    },{
+        "Name": "M.P. Shah Govt Medical College, Jamnagar",
+        "Address":"Pandit Nehru Marg, Indradeep Society, Jamnagar, Gujarat 361008",
+        "Latt": "22.477545",
+        "long": "70.065251"
+    },{
+        "Name": "Madras Medical College, Chennai, Tamil Nadu",
+        "Address":" Madras Medical College, Near Park Town Station, Park Town, Chennai, Tamil Nadu 600003",
+        "Latt": "13.080264",
+        "long": "80.272282"
+    },{
+        "Name": "Madurai Medical College, Madurai",
+        "Address":" Medical College, Medical College Rd, Alwarpuram, Madurai, Tamil Nadu 625020",
+        "Latt": "9.927808",
+        "long": "78.139061"
+    },{
+        "Name": "Malabar Cancer Centre, Thalassery",
+        "Address":" Kodiyeri, Muzhikkara - MCC Rd, Illathaazha, Thalassery, Kerala 670103",
+        "Latt": "11.749601",
+        "long": "75.523982"
+    },{
+        "Name": "Max lab, Max Super Speciality Hospita, Saket, New Delhi",
+        "Address":" 1, Press Enclave Road, Saket, 110017 New Delhi, Delhi, India",
+        "Latt": "28.527892",
+        "long": "77.212106"
+    },{
+        "Name": "Metropolis Healthcare Ltd",
+        "Address":"4th Floor, Commerical Building 1-A, Kohinoor City Mall, Vidyavihar (West), 400070 Mumbai, Maharashtra, India",
+        "Latt": "19.082366",
+        "long": "72.88571"
+    },{
+        "Name": "MGM Medical College, Indore",
+        "Address":" A.B.Road, Indore,, 452001 Indore, Madhya Pradesh , India",
+        "Latt": "22.714589",
+        "long": "75.882889"
+    },{
+        "Name": "MGM Medical College, Jamshedpur",
+        "Address":"Dimna Rd, Hill View Colony, Mango, Jamshedpur, Jharkhand 831020",
+        "Latt": "22.843852",
+        "long": "86.232364"
+    },{
+        "Name": "Midnapore Medical College, Midnapore",
+        "Address":" Vidyasagar Road , Paschim Medinipur, Midnapore, West Bengal, 721 101",
+        "Latt": "22.421872",
+        "long": "87.323142"
+    },{
+        "Name": "MIMS Laboratory Services, Kozhikode",
+        "Address":" Mini Bypass Rd, Govindapuram, 673016 Kozhikode, Kerala , India",
+        "Latt": "11.246078",
+        "long": "75.798702"
+    },{
+        "Name": "Modern Diagnostic & research Centre Laboratory, Gurugram",
+        "Address":" 363-364/4, Jawahar Nagar, New Railway Road, Gurugram-122001, Haryana",
+        "Latt": "28.466263",
+        "long": "77.027028"
+    },{
+        "Name": "Mysore Medical College & Research Institute, Mysore",
+        "Address":" Irwin Road, next to Railway Staion, Mysuru, Karnataka 570001",
+        "Latt": "12.315212",
+        "long": "76.650426"
+    },{
+        "Name": "National Centre for Disease Control, New Delhi",
+        "Address":" 22, Sham Nath Marg, Civil Lines, New Delhi, Delhi 110054",
+        "Latt": "28.679826",
+        "long": "77.223574"
+    },{
+        "Name": "National Institute for Research in Tribal Health, Jabalpur",
+        "Address":" Nagpur Road, near NSCB Medical Collage, Dhanvantri Nagar, Shastri Nagar, Jabalpur, Madhya Pradesh...",
+        "Latt": "23.147409",
+        "long": "79.878651"
+    },{
+        "Name": "National Institute of Cholera & Enteric Diseases (NICED), Kolkata",
+        "Address":" GB 4, 1st Floor, ID & BG Hospital Campus, 57, Dr SC Banerjee Rd, Beleghata, Kolkata, West Bengal 700010",
+        "Latt": "22.566036",
+        "long": "88.399837"
+    },{
+        "Name": "National Institute of Virology Field Unit, Allapuzzha",
+        "Address":" Vandanam, Kerala 688005",
+        "Latt": "9.418851",
+        "long": "76.3432"
+    },{
+        "Name": "National Institute of Virology Field Unit, Mumbai",
+        "Address":" Haffkine Institute Compound, A D Marg, Parel , 4000012 Mumbai, Maharashtra, India",
+        "Latt": "19.002198",
+        "long": "72.843747"
+    },{
+        "Name": "National Institute of Virology, Field Unit, Bengaluru",
+        "Address":" 1st Block, Jayanagar, 560011 Bengaluru, Karnataka, India",
+        "Latt": "19.002184",
+        "long": "72.844027"
+    },{
+        "Name": "National Institute of Virology, Pune",
+        "Address":" 130/1, Pashan - Sus Rd, 411021 Pune, Maharashtra, India",
+        "Latt": "18.543709",
+        "long": "73.788986"
+    },{
+        "Name": "Neuberg Anand Reference Laboratory, Bengaluru",
+        "Address":" Anand Tower, #54, Bowring Hospital Road, 560001 Bengaluru, Karnataka, India",
+        "Latt": "12.983087",
+        "long": "77.603669"
+    },{
+        "Name": "Neuberg Ehrlich Laboratory Pvt Ltd, Chennai",
+        "Address":" 46 & 48, Masilamani Road, Balaji Nagar, 600 014 Chennai, Tamil Nadu, India",
+        "Latt": "13.048992",
+        "long": "80.26614"
+    },{
+        "Name": "Nizam's Institute Of Medical Sciences, Hyderabad",
+        "Address":" Punjagutta Rd, Punjagutta Market, Punjagutta, Hyderabad, Telangana 500082",
+        "Latt": "17.422091",
+        "long": "78.452028"
+    },{
+        "Name": "North Bengal Medical College, Darjeeling",
+        "Address":" Siliguri, West Bengal 734012",
+        "Latt": "26.690905",
+        "long": "88.385006"
+    },{
+        "Name": "North Eastern Indira Gandhi Regional Institute of Health & Medical Sciences (NEIGRIHMS), Shillong",
+        "Address":" Mawdiangdiang, , 793018 Shillong, , Meghalaya , India",
+        "Latt": "25.590941",
+        "long": "91.939869"
+    },{
+        "Name": "ONCQUEST LABORATORIES LIMITED, New Delhi",
+        "Address":" 3-Factory Road, Adjacent Safdarjung Hospital, 110029 New Delhi, Delhi, India",
+        "Latt": "28.568757",
+        "long": "77.201826 "
+    },{
+        "Name": "Osmania Medical College, Hyderabad",
+        "Address":" 5-1-876, Turrebaz Khan Rd, 500095 Hyderabad, Telangana, India",
+        "Latt": "17.382442",
+        "long": "78.482836"
+    },{
+        "Name": "Pandit Bhagwat Dayal Sharma Post Graduate Institute of Medical Sciences, Rohtak",
+        "Address":" SH 16A, Dev Colony, , 124514 Rohtak, , Haryana , India",
+        "Latt": "28.880323",
+        "long": "76.605557"
+    },{
+        "Name": "PanGenomics International Pvt. Ltd., Ahmedabad",
+        "Address":" 1st floor sankalp Squre Juna sharda Mandir Cross Road, Ahmedabad, Gujarat 380006",
+        "Latt": "23.019762",
+        "long": "72.560622"
+    },{
+        "Name": "PATHCARE Labs Pvt. Ltd., Hyderabad",
+        "Address":" Sy. #34, Opp: Geethanjali Engineering College, Cheeryal (V), Keesara (M), Greater Hyderabad, Telangana 501301",
+        "Latt": "17.444943",
+        "long": "78.469194"
+    },{
+        "Name": "Post Graduate Institute of Medical Education & Research, Chandigarh",
+        "Address":" Madhya Marg, Sector 12, 160012 Chandigarh, Chandigarh, India",
+        "Latt": "30.765112",
+        "long": "76.774974"
+    },{
+        "Name": "Prognosis Laboratories, New Delhi",
+        "Address":"515-516, Sector-19, Dwarka, 110075 New Delhi, Delhi, India",
+        "Latt": "28.580508",
+        "long": "77.051018"
+    },{
+        "Name": "Rajendra Memorial Research Institute of Medical Sciences, Patna",
+        "Address":" Sadikpur, Patna, Bihar 800007",
+        "Latt": "25.599903",
+        "long": "85.197679"
+    },{
+        "Name": "Rajendra Institute of Medical Sciences, Ranchi",
+        "Address":"Rims Cir, Indraprasth Colony, Bariatu, Ranchi, Jharkhand 834009 ",
+        "Latt": "23.390035",
+        "long": "85.350235"
+    },{
+        "Name": "Rajiv Gandhi Center for Biotechnology, Thiruvananthapuram",
+        "Address":" Melarannoor Road Behind Central Jail Poojapura, 695014 Thiruvananthapuram, Kerala, India",
+        "Latt": "8.492567",
+        "long": "76.966853"
+    },{
+        "Name": "Rangaraya Medical College, Kakinada",
+        "Address":" Pithampuram Road, 533001 Kakinada, Andhra Pradesh , India",
+        "Latt": "16.97936",
+        "long": "82.237215"
+    },{
+        "Name": "Regional Institute of Medical Sciences, Imphal",
+        "Address":" Lamphel Road, Lamphelpat, Imphal, Manipur 795004",
+        "Latt": "24.816192",
+        "long": "93.922794"
+    },
+    {
+        "Name": "Regional Medical Research Centre (RMRC), Bhubaneswar",
+        "Address":" Nandankanan Rd, Samanta Vihar, Gajapati Nagar, Bhubaneswar, Odisha 751017",
+        "Latt": "20.316861",
+        "long": "85.819473"
+    },
+    {
+        "Name": "Regional Medical Research Centre, Dibrugarh",
+        "Address":" Bokul, Lahowal, 786001 Dibrugarh, Assam, India",
+        "Latt": "20.316861",
+        "long": "85.819505"
+    },{
+        "Name": "Regional Medical Research Centre, Port Blair",
+        "Address":" Post Bag 13, Dollygunj, Port Blair, Andaman and Nicobar Islands 744103",
+        "Latt": "11.634833",
+        "long": "92.714594"
+    },{
+        "Name": "RML Mehrotra Pathology Pvt Ltd., Lucknow",
+        "Address":" A-21/A, Nirala Nagar, Lucknow, Uttar Pradesh 226020",
+        "Latt": "26.872423",
+        "long": "80.938875"
+    },{
+        "Name": "RNT Medical College, Udaipur",
+        "Address":" RNT Medical College,",
+        "Latt": "24.58842",
+        "long": "73.694959"
+    },{
+        "Name": "S. N. GENELAB, Nanpura, Surat ",
+        "Address":" 2nd Floor, President Plaza-A, Nanpura, 395001 Surat, Gujarat, India",
+        "Latt": "21.183615",
+        "long": "72.814269"
+    },{
+        "Name": "S.P. Medical College & Associated Group of Hospitals, Bikaner",
+        "Address":" S.p.medical collage, PBM Hospital, , 334001 Bikaner, Rajasthan, India",
+        "Latt": "28.006588",
+        "long": "73.330503"
+    },{
+        "Name": "Sanjay Gandhi Post Graduate Institute, Lucknow",
+        "Address":" New PMSSY Rd, Raibareli Rd, Lucknow, Uttar Pradesh 226014",
+        "Latt": "26.743745",
+        "long": "80.945196"
+    },{
+        "Name": "Sawai Man Singh (SMS) Medical College, Jaipur",
+        "Address":" Jawahar Lal Nehru Marg, Gangawal Park, Adarsh Nagar, Jaipur, Rajasthan 302004",
+        "Latt": "26.90561",
+        "long": "75.815901"
+    },{
+        "Name": "Seth GS Medical College & KEM Hospital, Mumbai",
+        "Address":" Acharya Donde Marg, Parel, Mumbai, Maharashtra 400012",
+        "Latt": "19.002717",
+        "long": "72.842013"
+    },{
+        "Name": "Sher - i -Kashmir Institute of Medical Sciences, Srinagar ",
+        "Address":" SKIMS Main Rd, Soura, Srinagar, 190011",
+        "Latt": "34.136323",
+        "long": "74.800057"
+    },{
+        "Name": "Shimoga Institute of Medical Sciences, Shivamogga",
+        "Address":" N.H.206, Sagara Road, Shivamogga, Karnataka 577201",
+        "Latt": "13.932882",
+        "long": "75.566863"
+    },{
+        "Name": "Sidhartha Medical College, Vijayawada",
+        "Address":" NH 16 Service Rd, beside Dr NTR University of Health Sciences, 520008 Vijayawada, Andhra Pradesh, India",
+        "Latt": "16.517675",
+        "long": "80.671355"
+    },{
+        "Name": "Silchar Medical College, Silchar",
+        "Address":" Ghungoor Road, beside Indian Post, Masimpur, 788014 Uttar Krishnapur Pt III, Assam, India",
+        "Latt": "24.775973",
+        "long": "92.794948"
+    },{
+        "Name": "Sir ganga ram hospital clinical laboratory services, New Delhi",
+        "Address":" Sarhadi Gandhi Marg, Old Rajinder Nagar, Rajinder Nagar, 110060 New Delhi, Delhi , India ",
+        "Latt": "28.639075",
+        "long": "77.190124"
+    },{
+        "Name": "Sir H.N. Reliance Foundation Hospital and Research Center, Mumbai",
+        "Address":" MIDC, R-282, Thane - Belapur Rd, T.T.C. Industrial Area, Rabale, Navi Mumbai, Maharashtra 400701",
+        "Latt": "18.959292",
+        "long": "72.82026"
+    },{
+        "Name": "Sir Ronald Ross of Tropical & Communicable Diseases, Hyderabad",
+        "Address":" CGHS Complex, Old Aiport Road, Motilal Nehru Nagar, Begumpet, Hyderabad, Telangana 500016",
+        "Latt": "17.445729",
+        "long": "78.472264"
+    },{
+        "Name": "Sree Chitra Tirunal Institute for Medical Sciences & Technology, Thiruvananthapuram",
+        "Address":" ncnJai Nagar W Rd, Chalakkuzhi, 695011 Thiruvananthapuram, Kerela, India",
+        "Latt": "8.521836",
+        "long": "76.926378"
+    },{
+        "Name": "SRI RAMACHANDRA LABORATORY SERVICES, Chennai",
+        "Address":" No.1 Ramachandra Nagar Porur, Chennai - 600116 Tamil Nadu, India",
+        "Latt": "13.038403",
+        "long": "80.144542"
+    },{
+        "Name": "Sri Venkateswara Institute of Medical Sciences, Tirupati",
+        "Address":"Alipiri Rd, Sri Padmavati Mahila Visvavidyalayam, Tirupati, 517507 Tirupati, Andhra Pradesh, India",
+        "Latt": "13.638084",
+        "long": "79.40389"
+    },{
+        "Name": "SRL Diagnostics, Goregaon West",
+        "Address":" Prime Square building, Gaiwadi Industrial, estate,, 400062 Mumbai, Maharashtra, India",
+        "Latt": "19.17161",
+        "long": "72.845615"
+    },{
+        "Name": "SRL Limited",
+        "Address":" GP 26 Sector 18,, 122015 gurgaon, Haryana, India",
+        "Latt": "28.489406",
+        "long": "77.06171"
+    },{
+        "Name": "State Public Health Laboratory, Trivandrum",
+        "Address":" Red Cross Road, Near, General Hospital Rd, Rishimangalam, Pattoor, Thiruvananthapuram, Kerala 695024",
+        "Latt": "8.498474",
+        "long": "76.939413"
+    },{
+        "Name": "Strand Life Sciences, Gurugram",
+        "Address":" A-17, Info Technology Park, Sector 34,, 122001 Gurugram, Haryana, India",
+        "Latt": "28.429711",
+        "long": "77.01556"
+    },{
+        "Name": "SUBURBAN DIAGNOSTICS (INDIA) PVT. LTD",
+        "Address":" 2nd Floor Aston, Shastri Nagar, Andheri (W), Mumbai, Maharashtra, India 400053",
+        "Latt": "19.25555",
+        "long": "72.976742"
+    },{
+        "Name": "Supratech Micropath Laboratory & Research Institute Pvt. Ltd., Ahmedabad",
+        "Address":" Kedar Builiding, Opp. Krupa petrol Pump, 380006 Ahmedabad, Gujarat, India",
+        "Latt": "23.020116",
+        "long": "72.559319"
+    },{
+        "Name": "Thyrocare Technologies Limited",
+        "Address":" D-37/1 MIDC Turbhe, 400703 Navi Mumbai, Maharashtra, India",
+        "Latt": "19.062052",
+        "long": "73.025565"
+    },{
+        "Name": "Unipath Speciality Laboratory Limited, Ahmedabad",
+        "Address":" 102, 1st Floor, Sanoma Plaza, Sheth Mangald Road, 380006 Ahmedabad, Gujarat, India",
+        "Latt": "23.01938",
+        "long": "72.555598"
+    },{
+        "Name": "Uttar Pradesh University of Medical Sciences, Saifai, Etawah",
+        "Address":" Off, Kurawali - Mainpuri - Etawah Rd, Saifai, Uttar Pradesh 206130",
+        "Latt": "26.961165",
+        "long": "78.960521"
+    },{
+        "Name": "Vijaya Diagnostic Centre Pvt. Ltd, Hyderabad",
+        "Address":"3-6-16 & 17, Street No.19, opp. Lane to Tanishq, Chandra Nagar,Himayat Nagar, Hyderabad",
+        "Latt": "17.404519",
+        "long": "78.479887"
+    },{
+        "Name": "Vimta Labs Ltd., Hyderabad",
+        "Address":" Plot No. 142, Phase 2, IDA Cherlapally, 500051 Hyderabad, Telangana, India",
+        "Latt": "17.470969",
+        "long": "78.602303"
+    }
+]
+}
